@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 
 <!--START_SECTION:waka-->
-![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=kanghao)
+![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=kanghaov)
 
 <!--END_SECTION:waka-->
